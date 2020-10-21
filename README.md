@@ -18,4 +18,6 @@ JSON body example:
 }
 ```
 
+You will receive a 400 Bad Request if either value is missing, or they are outside of their possible ranges (-90 < lat < 90, -180 < lon < 180)
+
 I use Postman (https://www.postman.com/postman/) to make most API requests, but there are a variety of ways that you can make requests.
