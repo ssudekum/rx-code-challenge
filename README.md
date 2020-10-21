@@ -7,6 +7,7 @@ Clone the project to your local machine and run `npm install`, followed by `npm 
 Once you have started the server, you can use the following to access the API
 
 POST http://localhost:3000/nearest-pharmacy 
+
 JSON body example:
 ```
 {
