@@ -2,6 +2,8 @@
 
 To use this API:
 
+You will need to have Node installed on your machine. You can download it here - https://nodejs.org/en/
+
 Clone the project to your local machine and run `npm install`, followed by `npm start`, to start the node server.
 
 Once you have started the server, you can use the following to access the API
